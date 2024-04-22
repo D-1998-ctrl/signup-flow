@@ -1,0 +1,19 @@
+:root{
+    /* --width:9% ; */
+    --borderradious:8px;
+    --background:rgb(58, 145, 245) ;
+    --color:rgb(58, 145, 245);
+    
+}
+
+
+.btn2{
+    /* width: var(--width); */
+    border-radius: var(--borderradious);
+    background-color: var(--background);
+    color: var(--color);
+    border: none;
+    padding: 8px 12px;
+    cursor: pointer;
+    
+}
